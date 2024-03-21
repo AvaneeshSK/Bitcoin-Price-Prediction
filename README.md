@@ -1,10 +1,10 @@
 # Bitcoin-Price-Prediction
 
-kaggle : https://www.kaggle.com/datasets/prasoonkottarathil/btcinusd  
+# kaggle : https://www.kaggle.com/datasets/prasoonkottarathil/btcinusd  
 
-predict price of bitcoin till 2020
+# predict price of bitcoin till 2020
 
-Models used : 
+# Models used : 
 
     Naive Model
     ANN Model Sliding Window (w=7, h=1)
